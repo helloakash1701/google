@@ -1,0 +1,67 @@
+body{
+    overflow: hidden;
+}
+input[value="Google Search"]{
+    display: block;
+    position: relative;
+    left: 538px;
+    top:165px;
+
+}
+
+input[type="text"]{
+    width: 400px;
+    height: 35px;
+    position: relative;
+    left: 450px;
+    top: 128px;
+    border-radius: 82px;
+    text-align: center;
+    border-color: grey;
+}
+
+input[type="submit"]{
+    background-color : grey ;
+
+    height:35px ;
+    border-radius: 5px;
+    color: white;
+    border: 1px;
+    padding: 10px;
+}
+input[type="submit"]:hover{
+    background-color: aqua;
+    color: black;
+}
+
+img{
+    height: 200px;
+    width: 50%;
+    position: relative;
+    left: 357px;
+    top: 92px;
+    
+}
+.list {
+    position: relative;
+    left: 1060px;
+    bottom: 190px;
+}
+.list1{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+li{
+    padding: 5px;
+}
+a{
+    text-decoration: none;
+}
+
+.button{
+    position: relative;
+    left: 652px;
+    top: 131px;
+
+}

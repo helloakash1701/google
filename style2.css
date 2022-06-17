@@ -1,0 +1,60 @@
+.header{
+    height: 30px;
+    margin: 10px;
+}
+
+.h2{
+    font-style: inherit;
+    font-weight: inherit;
+    margin-left: 50px;
+    color: red;
+}
+hr{
+    size: 1px;
+}
+
+h3{
+    font-style: inherit;
+    font-weight: inherit;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.form{
+    margin-left: 50px;
+}
+
+.label1{
+    margin-right: 80px;
+}
+.label2{
+    margin-right: 15px;
+}
+.label3{
+    margin-right: 54px;
+}
+.label4{
+    margin-right: 44px;
+}
+.list {
+    position: relative;
+    left: 1060px;
+    bottom: 190px;
+} */
+.list1{
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+}
+li{
+    padding: 5px;
+    list-style: none;
+    
+}
+a{
+    text-decoration: none;
+}
+.but{
+    background-color: blue;
+    color: white;
+}
